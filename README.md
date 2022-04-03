@@ -1,4 +1,6 @@
 # autoencoder-transferlearning
+[![DOI](https://zenodo.org/badge/477249900.svg)](https://zenodo.org/badge/latestdoi/477249900)
+
 Evaluating the efficacy of transfer learning autoencoder neural networks across similar IoT devices and similar malware types.
 
 In order to replicate, please import the jupyter-notebooks into a platform of your choice and modify the variables used to write results into persistent files on disk.
