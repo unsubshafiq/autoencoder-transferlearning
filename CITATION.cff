@@ -1,1 +1,16 @@
-
+cff-version: 1.0.0
+message: If you use this software, please cite it using these metadata.
+title: Transfer Learning AutoEncoder Neural Networks for Anomaly Detection of DDoS Generating IoT Devices
+abstract: A set of jupyter-notebooks used in the research work titled above.
+authors:
+  - family-names: Shafiq
+    given-names: Unsub
+    orcid: "https://orcid.org/0000-0001-6418-2219"
+  - name: "Transfer Learning AutoEncoder Neural Networks for Anomaly Detection of DDoS Generating IoT Devices"
+version: 1.0
+date-released: "2022-04-03"
+identifiers:
+  - description: A set of jupyter-notebooks used in the research work titled above.
+    type: doi
+    value: "10.5281/zenodo.6409161"
+repository-code: "https://github.com/unsubshafiq/autoencoder-transferlearning.git"
